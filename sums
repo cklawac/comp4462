@@ -1,0 +1,36 @@
+Country, Sum_of_infantry_weapon, Sum_of_ship, Sum_of_aircraft, Sum_of_vehicle
+Argentina, 0, 25, 1, 17
+Australia, 0, 14, 5, 553
+Belgium, 23, 1, 3, 659
+Brazil, 32, 8, 2, 0
+Bulgaria, 24, 1, 6, 473
+Canada, 30, 193, 9, 417235
+China, 73, 12, 1, 410
+Croatia, 25, 0, 0, 0
+Czechoslovakia, 24, 0, 57, 1943
+Denmark, 19, 7, 2, 15
+Estonia, 9, 0, 1, 0
+Finland, 71, 3, 8 110
+France, 41, 46, 3912, 13045
+Nazi Germany, 121, 440, 58446, 277742
+Greece, 33, 17, 0, 0
+Hungary, 43, 0, 5, 3458
+Italy, 55, 38, 8378, 7305
+Japan, 68, 96, 20845, 8620
+Latvia, 10, 0, 1, 0
+Lithuania, 18, 0, 1, 0
+Luxembourg, 14, 0, 0, 0
+Mexico, 17, 0, 0, 0
+Mongolia, 6, 0, 0, 0
+Netherlands, 26, 28, 52, 64
+New Zealand, 16, 4, 0, 1512
+Norway, 18, 12, 3, 1
+Poland, 57, 11, 262, 1208
+Romania, 24, 15, 149, 316
+South Africa, 13, 3, 0, 5746
+Thailand, 26, 2, 2, 106
+UK, 51, 790, 114740, 226447
+US, 58, 637, 133387, 235008
+USSR, 56, 16, 57556, 445850
+Yugoslavia, 39, 5, 13, 5
+Grand Total, 1187, 2500, 397853, 1652503
