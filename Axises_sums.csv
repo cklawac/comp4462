@@ -1,7 +1,7 @@
 Country,Sum_of_infantry_weapon,Sum_of_ship,Sum_of_aircraft,Sum_of_vehicle
-Bulgaria, 24, 1, 6, 473
-Hungary, 43, 0, 5, 3458
-Italy, 55, 38, 8378, 7305
-Japan, 68, 96, 20845, 8620
-Nazi Germany, 121, 440, 58446, 277742
-Romania, 24, 15, 149, 316
+Bulgaria,24,1,6,473
+Hungary,43,0,5,3458
+Italy,55,38,8378,7305
+Japan,68,96,20845,8620
+Nazi Germany,121,440,58446,277742
+Romania,24,15,149,316
