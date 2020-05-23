@@ -12,5 +12,20 @@
 
 <div style="height:600px; width:900px;" class="flourish-embed flourish-bar-chart-race" data-src="visualisation/2021040" data-url="https://flo.uri.sh/visualisation/2021040/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+  <div id="observablehq-476c5dcd">
+  <div class="observablehq-viewof-side"></div>
+  <div class="observablehq-viewof-equipment"></div>
+  <div class="observablehq-chart"></div>
+</div>
+<script type="module">
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+  import define from "https://api.observablehq.com/@sharpsonmong/zoomable-treemap.js?v=3";
+  (new Runtime).module(define, name => {
+    if (name === "viewof side") return Inspector.into("#observablehq-476c5dcd .observablehq-viewof-side")();
+    if (name === "viewof equipment") return Inspector.into("#observablehq-476c5dcd .observablehq-viewof-equipment")();
+    if (name === "chart") return Inspector.into("#observablehq-476c5dcd .observablehq-chart")();
+  });
+</script>
+  
 </body>
 </html>
